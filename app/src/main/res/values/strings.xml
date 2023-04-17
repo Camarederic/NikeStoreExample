@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">NikeStoreExample</string>
+    <string name="best_seller">Best Seller</string>
+    <string name="new_release">New Release</string>
+    <string name="search_shoe">Search shoe...</string>
+    <string name="welcome_to_nnike_store">Welcome To\nNike Store</string>
 </resources>
