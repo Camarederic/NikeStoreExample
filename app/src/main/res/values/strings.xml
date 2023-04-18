@@ -4,4 +4,8 @@
     <string name="new_release">New Release</string>
     <string name="search_shoe">Search shoe...</string>
     <string name="welcome_to_nnike_store">Welcome To\nNike Store</string>
+    <string name="nike">Nike</string>
+    <string name="pegasus_trail">Pegasus Trail</string>
+    <string name="men_s_shoe">Men\'s Shoe</string>
+    <string name="_27399">₽ 27399</string>
 </resources>
